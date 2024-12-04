@@ -1,0 +1,1 @@
+My slstatus setup
